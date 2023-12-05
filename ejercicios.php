@@ -1,13 +1,11 @@
+//-----------Saludo PHP-----------------
+
 <?php
 echo "Hola";
 echo "¿Que tal?"
 ?>
 
-// Comentario de una linea
-# Otro comentario de una linea
-/* Comentario
-de varias
-lineas*/
+#---------Operación matematica------------
 
 <?php
 $suma = 3 + 2
