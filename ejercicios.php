@@ -1,13 +1,13 @@
-//-----------Saludo PHP-----------------
+//-----------Saludo PHP------------
 
 <?php
 echo "Hola";
-echo "¿Que tal?"
+echo "¿Quetal?"
 ?>
 
 #---------Operación matematica------------
 
 <?php
-$suma = 3 + 2
+$suma = 3 + 3
 echo $suma;
 ?>
