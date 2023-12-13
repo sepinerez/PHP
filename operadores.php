@@ -91,10 +91,5 @@ $a = 3;
 $b = $a++;
 echo "\$a vale $a y \$b vale $b"; // $a vale 4 y $b vale 3
 
-//--------------concatenación-------------
-
-$bienvenida = "Biemvenido ";
-$nombre = "Sandra";
-$saludo  = $bienvenida . $nombre;
 
 ?>
